@@ -1,7 +1,6 @@
 //-----------------------------------------------------------------------------
-// Copyright 2012 Masanori Morise
+// Copyright 2012-2016 Masanori Morise. All Rights Reserved.
 // Author: mmorise [at] yamanashi.ac.jp (Masanori Morise)
-// Last update: 2017/02/01
 //-----------------------------------------------------------------------------
 #ifndef WORLD_AUDIOIO_H_
 #define WORLD_AUDIOIO_H_
